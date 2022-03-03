@@ -2,7 +2,7 @@ const data = {}
 const rpc_addr = 'https://florencenet.smartpy.io/'//'https://api.tez.ie/rpc/florencenet'
 const network = "florencenet"
 
-const contract_addr = 'KT1LA2aMYXi4DVLQMtxQZZEbvW9eRnBUwxnk'
+const contract_addr = 'KT1Rqq1kU9uQDuPDc3EqW2AzfbJgmBNHZHfa'
 let user_addr = ''
 let alien_link = ''
 let account_link = ''
